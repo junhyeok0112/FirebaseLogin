@@ -79,5 +79,9 @@ dependencies {
 
     //firebase-ui-storage 라이브러리추가
     implementation 'com.firebaseui:firebase-ui-storage:8.0.0'
+
+    //파이어베이스 클라우드 메시징 라이브러리 추가
+    implementation 'com.google.firebase:firebase-messaging-ktx'
+    implementation 'com.google.firebase:firebase-analytics-ktx'
     
 }
